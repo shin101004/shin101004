@@ -2,9 +2,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shin101004&show_icons=true&theme=cobalt)
 ### 🐭 My stack
-HTML
-CSS
-JS
 React
 Typescript
 
