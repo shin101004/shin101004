@@ -4,10 +4,11 @@
 ### 🐭 My stack
 React
 Typescript
+Redux
+React-query
+Javascript
 
 ### Organazation
 Nanobook
 3355lab
-
-#### Nomflix Clone Coding
-https://gallant-kilby-3c8c7c.netlify.app/#/
+Alocados
