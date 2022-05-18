@@ -5,7 +5,6 @@
 React
 Typescript
 Redux
-React-query
 Javascript
 
 ### Organazation
